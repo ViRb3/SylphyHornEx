@@ -136,7 +136,11 @@
     <value>Supported image formats: JPEG, PNG, BMP</value>
   </data>
   <data name="Settings_Background_Note2" xml:space="preserve">
-    <value>Note: Please prepare image files with the virtual desktop number as filename (e.g. "1.png", "2.png", ...).</value>
+    <value>Note: Please prepare image files with the virtual desktop number as filename (e.g. "1.png", "2.png", ...).
+Additional properties may be set using the syntax
+{desktopNumber}-{monitorIndex}-{modeOptions}.{ext}
+where {monitorIndex} is the Index of the Monitor and {modeOptions} is one of (c)enter, (t)ile, (s)tretch, (f)it, (fil)l or (sp)an.
+Example: "1-2-sp.jpg" will be set on the second Monitor in span mode while virtual desktop 1 is shown.</value>
   </data>
   <data name="Settings_Background_SelectionDialog" xml:space="preserve">
     <value>Select Background Images Folder</value>
