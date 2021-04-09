@@ -11,12 +11,8 @@ jobs:
     runs-on: [windows-2019]
 
     steps:
-      - name: Setup MSBuild.exe
-        uses: warrenbuckley/Setup-MSBuild@v1
-
-      - name: Setup Nuget.exe
-        if: success()
-        uses: warrenbuckley/Setup-Nuget@v1
+      - name: Add msbuild to PATH
+        uses: microsoft/setup-msbuild@v1.0.2
 
       - name: Checkout
         if: success()
