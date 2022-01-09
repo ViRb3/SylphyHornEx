@@ -34,7 +34,7 @@ Please download from [Releases](https://github.com/ViRb3/SylphyHornEx/releases).
 (default key combination: <kbd>Alt</kbd> + <kbd>Win</kbd> + <kbd>1</kbd> to <kbd>0</kbd>)
 
 * Pin window to all desktops
-(default key combination: <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>Win</kbd> + <kbd>P</kbd>)  
+(default key combination: <kbd>Ctrl</kbd> + <kbd>Win</kbd> + <kbd>P</kbd>)  
 
 * Settings GUI (call from tasktray)  
 
