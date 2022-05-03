@@ -4,6 +4,10 @@
 SylphyHorn is a collection of virtual desktop tools for Windows 10.  
 It provides global hotkeys, switching notification, different background per virtual desktop, and many more features to improve your experience.
 
+---
+### :warning: DEPRECATION NOTICE: <br><br> This project is no longer maintained and has issues with Windows 11. <br> For a third-party alternative, check:  [SylphyHornPlusWin11](https://github.com/hwtnb/SylphyHornPlusWin11)
+---
+
 ## Installation
 Please download from [Releases](https://github.com/ViRb3/SylphyHornEx/releases).
 
